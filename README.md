@@ -8,9 +8,9 @@
 
 
 ## Dataset
-Dataset used : facades data
+Dataset : facades data
 
-Link to the dataset : http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/
+Source : http://efrosgans.eecs.berkeley.edu/pix2pix/datasets/
 
 ## Results
 The results in this experiment suggest that conditional adversarial networks are a promising approach for many image-image translation tasks, especially those involving highly structured graphical outputs. These networks learn a loss adapted to the task and data at hand, which makes them applicable in a wide variety of settings.
